@@ -1,5 +1,0 @@
-# Modules
-":floppy_disk: customer-gateway":
-- changed-files:
-  - any-glob-to-any-file:
-    - modules/customer-gateway/**/*
